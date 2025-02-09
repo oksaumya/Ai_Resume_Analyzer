@@ -29,8 +29,8 @@ This project is an AI-powered Resume Analyzer that uses Hugging Face’s **Named
 ### Clone the Repository
 Start by cloning the repository from GitHub:
 ```bash
-git clone https://github.com/allanninal/ai-resume-analyzer.git
-cd ai-resume-analyzer
+git clone https://github.com/oksaumya/Ai_Resume_Analyzer.git
+cd Ai_Resume_Analyzer
 ```
 
 ### Backend Setup
